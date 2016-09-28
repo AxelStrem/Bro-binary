@@ -17,3 +17,6 @@ z2z2*z3z4d
 == Bro started ==
  a4a a4b a4c a4d 0No params;
 a1a2a3a4a5a6a7a7*a7**a8bcd
+== Bro started ==
+ a4a a4b a4c a4d 0No params;
+a1a2a3a4a5a6a7a7*a7**a8bcd
