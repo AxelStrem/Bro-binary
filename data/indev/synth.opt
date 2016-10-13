@@ -1,0 +1,75 @@
+{
+"background" : {
+    "texture" : {
+		"file" : "Synth/psynth",
+		"width" : 512,
+		"height" : 512
+				},
+	"width" : 340,
+	"height" : 190
+	           },
+"button_sin" : {
+	"x" : 20,
+	"y" : 20,
+	"width" : 31,
+	"height" : 24,
+	"text" : "S"
+	           },
+"button_saw" : {
+	"x" : 53,
+	"y" : 20,
+	"width" : 31,
+	"height" : 24,
+	"text" : "L"
+               },
+"button_imp" : {
+	"x" : 86,
+	"y" : 20,
+	"width" : 31,
+	"height" : 24,
+	"text" : "I"
+               },
+"button_nil" : {
+	"x" : 119,
+	"y" : 20,
+	"width" : 31,
+	"height" : 24,
+	"text" : "C"
+               },
+"knob_freq" : {
+	"x" : 240,
+	"y" : 20,
+	"width" : 80,
+	"height" : 80,
+	"x_center" : 40,
+	"y_center" : 40
+			  },
+"knob_amp" : {
+	"x" : 160,
+	"y" : 20,
+	"width" : 80,
+	"height" : 80,
+	"x_center" : 40,
+	"y_center" : 40
+			  },
+"text_freq" : {
+	"x" : 240,
+	"y" : 100,
+	"width" : 80,
+	"height" : 24,
+	"text" : "Freq"
+			  },
+"text_amp" : {
+	"x" : 160,
+	"y" : 100,
+	"width" : 80,
+	"height" : 24,
+	"text" : "Amp"
+			  },
+"function" : {
+	"x" : 20,
+	"y" : 46,
+	"width" : 128,
+	"height" : 128
+			  }
+}
